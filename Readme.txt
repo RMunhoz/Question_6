@@ -1,0 +1,2 @@
+Executar primeiramente o arquivo contagem_caract_Q6.sql para criação da função contagem_caract, logo após abrir 
+o arquivo Question_6.sql em qualquer ambiente de desenvolvimento SQL, ao executar o resultado será exibido no output interno.
